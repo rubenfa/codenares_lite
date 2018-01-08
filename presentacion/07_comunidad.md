@@ -1,4 +1,4 @@
-## COMUNIDAD 
+## *COMUNIDAD* 
 
 ---?image=assets/img/codenares.jpg
 
