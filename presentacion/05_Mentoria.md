@@ -48,7 +48,8 @@ No eres mejor por tener un título. Hay gente que apenas tiene la ESO y son verd
 ---
 ### No seas el más listo de la sala
 
-> Si eres la persona más lista de la sala ... probablemente estés en la sala equivocada.
+> Si eres la persona más lista de la sala, es porque probablemente estés en la sala equivocada.
+
 James D. Watson
 
 ---
