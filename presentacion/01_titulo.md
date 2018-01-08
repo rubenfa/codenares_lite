@@ -1,3 +1,3 @@
 ## OJALÁ HUBIESE TENIDO UN MENTOR
 
-![Logo](assets/img/logliteuah.png)
+![Logo](assets/img/logoliteuah.png)
