@@ -1,6 +1,6 @@
 ## ¿Qué es un mentor?
 
-La mentoría es una relación de desarrollo personal en la cual **una persona más experimentada o con mayor conocimiento ayuda a otra menos experimentada o con menor conocimiento**. 
+Una persona más experimentada o con mayor conocimiento que ayuda a otra menos experimentada o con menor conocimiento. 
 
 ![yoda](assets/img/yoda.jpg)
 
