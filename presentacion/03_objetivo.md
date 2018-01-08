@@ -10,7 +10,7 @@ Note:
 
 ---
 
-## COMO VEÍA LA PROFESIÓN
+### Cómo veía la profesión
 
 - Iba a ganar mucha pasta
 - Iba a ser jefe
@@ -19,7 +19,7 @@ Note:
 
 --- 
 
-## COMO ES EN REALIDAD LA PROFESIÓN
+### Como es en realidad la profesión
 
 - ~~Iba a ganar mucha pasta~~
 - ~~Iba a ser jefe~~
@@ -28,7 +28,7 @@ Note:
 
 ---
 
-## ASÍ ESTÁ EL MERCADO LABORAL EN SU MAYOR PARTE
+### Así es el mercado laboral en España
 
 ---
 
@@ -41,3 +41,7 @@ Note:
 ---
 
 ![money](assets/img/money.png)
+
+---
+
+### Ojalá hubiese tenido un mentor
