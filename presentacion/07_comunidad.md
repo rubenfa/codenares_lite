@@ -1,10 +1,12 @@
 ## *COMUNIDAD* 
 
----?image=assets/img/codenares.jpg
+---?image=assets/img/codenares.jpg&size=auto 98%
+
+---
 
 ### Hay cientos de comunidades en Madrid y Alrededores
 
-![comunidad](assets/img/metupbetabeers.png)
+![comunidad](assets/img/meetupbetabeers.png)
 
 ---
 
