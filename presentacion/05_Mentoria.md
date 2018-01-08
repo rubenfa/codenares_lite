@@ -36,6 +36,8 @@ No tengas miedo a preguntar. Haz como los niños. Muchas veces no nos atrevemos 
 
 ### Siempre aprendiendo
 
+![graph](assets/img/siempre_aprendiendo.jpg)
+
 Note:
 Intenta leer libros, blogs y artículos. Tienes que estar siempre aprendiendo algo
 
