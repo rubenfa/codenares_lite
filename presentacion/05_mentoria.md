@@ -22,6 +22,8 @@ Investiga. Entiende porqué haces las cosas. No apliques las cosas sin saber qu�
 
 ### Tienes que ser proactivo, muévete
 
+> (TALENTO + CONOCIMIENTOS) * ACTITUD
+
 Note:
 Yo en la carrera me moví poco. Podía haberme abierto un blog, haz cosas. No os centréis solo en las prácticas
 
@@ -63,6 +65,8 @@ Note:
 ¿Cómo se mide la experiencia? 10 años haciendo lo mismo, ¿son 10 años de experiencia?
 
 ---
+
+
 ### No pienses solo en el dinero
 
 ![wolf](assets/img/wolf.gif)
