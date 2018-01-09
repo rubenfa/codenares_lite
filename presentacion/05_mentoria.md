@@ -61,7 +61,7 @@ Note:
 ---
 
 ### No te compares con otros
-![zuckerberg](assets/img/zuckerberg.jpg)
+![zuckerberg](assets/img/zuckerberg.jpeg)
 
 Note:
 - Es el creador de Facebook.
