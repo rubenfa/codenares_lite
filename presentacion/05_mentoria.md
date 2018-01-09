@@ -104,6 +104,7 @@ Note:
 
 ![wolf](assets/img/wolf.gif)
 
+Note:
 - No valores el dinero por encima de todo.
 - Ser esclavo del dinero es peligroso, porque te obliga a trabajar en sitios que no te gustan
 - Prioriza los empleos donde puedas aprender. A la larga, obtendrás más beneficios.
