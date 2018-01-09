@@ -59,16 +59,13 @@ Note:
 - Tienes que ver progresión en ti mismo.
 
 ---
-
 ### No te compares con otros
 ![zuckerberg](assets/img/zuckerberg.jpeg)
 
 Note:
-- Es el creador de Facebook.
 - Desarrollo Facebook en la Universidad. Es uno de los hombres más ricos del mundo.
 - Pero no hace falta compararse tan alto. A veces nos comparamos con compañeros de trabajo.
-- **SIEMPRE HAY ALGUIEN MEJOR**
-- **COMPÁRATE CONTIGO MISMO**
+- **SIEMPRE HAY ALGUIEN MEJOR**- **COMPÁRATE CONTIGO MISMO**
 
 
 ### Olvida la titulitis 
