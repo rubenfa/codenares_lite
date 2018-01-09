@@ -1,7 +1,7 @@
 ## *COMUNIDAD* 
 ---
 
-### Hay cientos de comunidades en Madrid y Alrededores
+### Hay cientos de comunidades en Madrid y alrededores
 
 ![comunidad](assets/img/meetupbetabeers.png)
 
