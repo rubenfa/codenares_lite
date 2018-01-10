@@ -19,6 +19,8 @@ Note:
 ![stack overflow](assets/img/stackoverflow.jpg)
 
 Note:
+- Yo hubo una época que usaba mucho StackOverflow. Un error y lo buscaba, una cosa que no sabía hacer y lo buscaba. 
+- Hasta configuré Visual Studio en inglés para que fuese más fácil buscar los errores.
 - Cuando busques en internet no copies y pegues
 - **INTENTA ENTENDER TODO LO QUE ENCUENTRAS**
 
@@ -39,8 +41,9 @@ Note:
 ### Haz preguntas
 
 Note:
-- No tengas miedo a preguntar. 
-- Haz como los niños. 
+
+- Yo tengo dos críos, y es increíble su capacidad para preguntar. No tienen miedo a equivocarse.
+- El otro día mi hijo me gastó una broma. Papá te he gastado una broma, es que soy un bromero.
 - Muchas veces no nos atrevemos porque nos parece una tontería. 
 - **PREGUNTA**
 - **NO HAY PREGUNTAS TONTAS, SOLO TONTOS QUE NO PREGUNTAN**
@@ -63,14 +66,17 @@ Note:
 ![zuckerberg](assets/img/zuckerberg.jpeg)
 
 Note:
+- A este señor quizá no lo conozcáis. Es un completo desconocido, que a penas ha logrado nada en la vida.
 - Desarrollo Facebook en la Universidad. Es uno de los hombres más ricos del mundo.
 - Pero no hace falta compararse tan alto. A veces nos comparamos con compañeros de trabajo.
+
 - **SIEMPRE HAY ALGUIEN MEJOR**- **COMPÁRATE CONTIGO MISMO**
 
 
 ### Olvida la titulitis 
 
 Note:
+- Tú título no demuestra una mierda.
 - En la Universidad solo demuestras que eres capaz de conseguir un título
 - No eres mejor por tenerlo
 - Hay compañeros que solo tienen la ESO y son cracks
@@ -94,9 +100,11 @@ Note:
 ![coches](assets/img/coches.jpg)
 
 Note:
-- ¿Cómo se mide la experiencia? 10 años haciendo lo mismo, ¿son 10 años de experiencia?
-- Este señor tiene una experiencia de la hostia. Poniendo tornillos
+- ¿Cómo se mide la experiencia?
+- Me llamo Manuel y tengo diez años de experiencia. ¿En qué? Poniendo tornillos a las ruedas de coches.
+- 10 años haciendo lo mismo, ¿son 10 años de experiencia?
 - Aunque de miedo: arriésgate. Eso te hace progresar
+- A mí me pasó. En la **última consultora** no seguí progresando y cuando me di cuenta que quería cambiar no tenía conocimientos.
 
 ---
 

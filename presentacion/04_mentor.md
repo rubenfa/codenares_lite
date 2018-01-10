@@ -1,8 +1,6 @@
 ## *¿QUÉ ES UN MENTOR?*
 
-Una persona más experimentada o con mayor conocimiento que ayuda a otra menos experimentada o con menor conocimiento. 
-
-![yoda](assets/img/yoda.jpg)
+> Una persona más experimentada o con mayor conocimiento que ayuda a otra menos experimentada o con menor conocimiento. 
 
 ---
 
@@ -16,9 +14,10 @@ Una persona más experimentada o con mayor conocimiento que ayuda a otra menos e
 
 ### ¿Dónde encontrar un mentor?
 
-- En cualquier sitio
-
 Note:
 - Un familiar que trabaje en la profesión
 - Un compañero de trabajo
-- No tienes por qué pedírselo a nadie. Es una relación que surge
+
+---
+
+![yoda](assets/img/yoda.jpg)

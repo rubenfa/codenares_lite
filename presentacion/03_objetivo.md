@@ -7,6 +7,7 @@ Note:
 - Hablar sobre de cómo acabé estudiando en Alcalá. 
 - De cómo **me deje llevar sacando las asignaturas*** sin complicarme demasiado. 
 - Me centré en el plan de estudios y no miré más allá
+- En la uni aprendí varias cosas. Aprendí programación, aprendí muchas matemáticas y **aprendí a jugar al mus**.
 
 ---
 
@@ -15,11 +16,6 @@ Note:
 - Iba a ganar mucha pasta
 - Iba a ser jefe
 - No iba a programar
-
-Note:
-- Iba a ganar mucha pasta nada más salir de la carrera. Por ser yo.
-- Iba a ser jefe, porque los INGENIEROS están para mandar
-- No iba a programar, eso lo hacían los de los módulos.
 
 --- 
 
@@ -34,10 +30,16 @@ Note:
 - Para ser jefe tienes que ganar experiencia y seguramente irte a tareas de gestión. Junior - Senior - Analista - Analista orgánico - Arquitecto - Jefe
 - Claro que programas. Y menos mal porque es lo que me gusta.
 
-** ACABÉ TRABAJANDO EN CONSULTORAS **
+Era un hombre feliz, lleno de ganas de demostrar mis conocimientos, con  ganas de demostrar mi valía como programador, queriendo demostrar que la carrera me había costado una pasta, pero había merecido la pena. Pero.
+** ACABÉ TRABAJANDO EN UNA CONSULTORA **
 ---
 
 ### Así es el mercado laboral en España
+
+Note:
+
+- Así es el mercado laboral en el 80% de los casos. Estadística inventada. 
+- Pero la estadística ya sabéis que es eso que dice que si yo tengo **2 pollos y tú no tienes ninguno, ambos tenemos un pollo**.
 
 ---
 
@@ -72,9 +74,7 @@ Note:
 ### Ojalá hubiese tenido un mentor
 
 Note:
-- Después de un tiempo trabajando así acabé quemado
 - Cansado de hacer chapuzas, pensando que debería haber algo más
-- Decidí cambiar
-- Abrí Twitter, empecé a autoformarme, muchos libros. Escribir en un blog. 
-- Pude cambiar de trabajo a uno mejor, luego a otro
+- Haciendo horas o no haciendo ninguna
+- Después de un tiempo trabajando así acabé quemado que la pipa de un indio
 - ¿Y si hubiera tenido un mentor?
