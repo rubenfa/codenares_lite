@@ -20,8 +20,8 @@ Note:
 - Conoces gente
 - **Comida gratis (a veces)**
 
----?image=assets/img/pizza.jpg
+---?image=assets/img/pizza.jpg&size=auto 99%
 
 
----?image=assets/img/codenares.jpg&size=auto 98%
+---?image=assets/img/codenares.jpg&size=auto 99%
 
