@@ -30,11 +30,14 @@ Note:
 - Para ser jefe tienes que ganar experiencia y seguramente irte a tareas de gestión. Junior - Senior - Analista - Analista orgánico - Arquitecto - Jefe
 - Claro que programas. Y menos mal porque es lo que me gusta.
 
+--- 
+### Encontrar trabajo es fácil
+
+Note:
 Era un hombre feliz, lleno de ganas de demostrar mis conocimientos, con  ganas de demostrar mi valía como programador, queriendo demostrar que la carrera me había costado una pasta, pero había merecido la pena. Pero.
 ** ACABÉ TRABAJANDO EN UNA CONSULTORA **
----
----?image=assets/img/mordor.jpg
 
+---?image=assets/img/mordor.jpg
 ---
 
 ### Así es el mercado laboral en España
