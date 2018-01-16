@@ -41,7 +41,6 @@ Note:
 ### Haz preguntas
 
 Note:
-
 - Yo tengo dos críos, y es increíble su capacidad para preguntar. No tienen miedo a equivocarse.
 - El otro día mi hijo me gastó una broma. Papá te he gastado una broma, es que soy un bromero.
 - Muchas veces no nos atrevemos porque nos parece una tontería. 
@@ -69,7 +68,6 @@ Note:
 - A este señor quizá no lo conozcáis. Es un completo desconocido, que a penas ha logrado nada en la vida.
 - Desarrollo Facebook en la Universidad. Es uno de los hombres más ricos del mundo.
 - Pero no hace falta compararse tan alto. A veces nos comparamos con compañeros de trabajo.
-
 - **SIEMPRE HAY ALGUIEN MEJOR**- **COMPÁRATE CONTIGO MISMO**
 
 

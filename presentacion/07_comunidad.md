@@ -14,10 +14,13 @@ Note:
 
 ### Ventajas de las comunidades
 
+Note:
 - Te lo pasas bien
 - Aprendes
 - Conoces gente
-- Comida gratis (a veces)
+- **Comida gratis (a veces)**
+
+---?image=assets/img/pizza.jpg
 
 
 ---?image=assets/img/codenares.jpg&size=auto 98%
