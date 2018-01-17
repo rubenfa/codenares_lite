@@ -52,9 +52,7 @@ Note:
 ### Control de versiones
 
 Note:
-- Yo entregaba las prácticas en disquete. 
-- Según las ibas haciendo ibas cambiando el nombre. 
-- Versión buena.jar, versión buena2.jar, versión definitiva.jar, version definitiva final ultima. jar
+- Yo entregaba las prácticas en disquete. Según las ibas haciendo ibas cambiando el nombre. Versión buena.jar, versión buena2.jar, versión definitiva.jar, version definitiva final ultima. jar
 - Aprende Git. Hoy en día es fácil con GitHub
 - **Y si caes en una empresa que no tiene control de versiónes**
 
@@ -67,8 +65,7 @@ Note:
 
 Note:
 - siempre se aprende un poco en la universidad y está muy bien
-- Los ORMs hacen que lo olvides
-- SQL es importante porque te ayuda a entender muchas cosas
+- Los ORMs hacen que lo olvides.SQL es importante porque te ayuda a entender muchas cosas
 - Aprende qué es un índice, a hacer inner join, un poco de optimización de consultas.
 --- 
 ### Inglés
