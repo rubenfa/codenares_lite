@@ -10,6 +10,8 @@ Note:
 - Yo no pensaba en eso cuando estudiaba
 - Estaba cansado de todo el día en la uni y solo quería desconectar
 - Pero las comunidades son divertidas.
+
+---?image=assets/img/codenares.jpg&size=auto 99%
 ---
 
 ### Ventajas de las comunidades
@@ -22,6 +24,7 @@ Note:
 
 ---?image=assets/img/pizza.jpg&size=auto 99%
 
+---?image=assets/img/cerves.jpg&size=auto 99%
 
----?image=assets/img/codenares.jpg&size=auto 99%
+
 

@@ -14,10 +14,9 @@
 
 ### ¿Dónde encontrar un mentor?
 
+![yoda](assets/img/yoda.jpg)
+
 Note:
 - Un familiar que trabaje en la profesión
 - Un compañero de trabajo
 
----
-
-![yoda](assets/img/yoda.jpg)

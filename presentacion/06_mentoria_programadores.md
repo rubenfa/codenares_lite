@@ -2,14 +2,12 @@
 
 ---
 
-### No seas talibán
+### No seas talibán o hater
 
 Note:
-- Yo tuve mi época de talibán linuxero.
-- Me metía con los que usaban Windows.
+- Yo tuve mi época de talibán linuxero. Me metía con los que usaban Windows.
 - Acabé programando en .NET
-- Todo tiene cosas buenas y cosas malas.
-- La mente abierta te hace comprender muchas más cosas que si te cierras a una sola cosa
+- Todo tiene cosas buenas y cosas malas. La mente abierta te hace comprender muchas más cosas que si te cierras a una sola cosa
 
 --- 
 
@@ -18,8 +16,6 @@ Note:
 ![hypes](assets/img/gartner.png)
 
 Note:
-- Hace poco fui a ver Star Wars.
-- Las críticas eran buenas. Mucho hype. Al final decepción
 - En la informática vamos por modas.
 - Ten cuidado con las modas porque **NO PUEDES APRENDERLO TODO**
 
@@ -41,9 +37,7 @@ Note:
 Note:
 - Yo no vi mucho testing en la uni
 - Es la manera **de garantizar que tú trabajo está bien hecho**
-- Aprende qué tipos de test hay, y aprende hacerlos.
-- Aprende que es TDD y si te compensa utilizarlo o no.
-- Haz tests para **TODO LO QUE PROGRAMES**
+- Aprende qué tipos de test hay, y aprende hacerlos. Aprende que es TDD y si te compensa utilizarlo o no. Haz tests para **TODO LO QUE PROGRAMES**
 
 ---
 

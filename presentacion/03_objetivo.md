@@ -69,10 +69,8 @@ Note:
 ![money](assets/img/money.png)
 
 Note:
-- Te mandan a un cliente
-- Cobran mucho dinero por ti. Hay un intermediario que encarece todo.
-- Juniors para ganar más
-- Pelea de consultoras para conseguir proyectos. **TIRAN LOS PRECIOS**
+- Te mandan a un cliente. Cobran mucho dinero por ti. Hay un intermediario que encarece todo.
+- Juniors para ganar más. Pelea de consultoras para conseguir proyectos. **TIRAN LOS PRECIOS**
 - Proyectos poco atractivos, echando muchas horas y haciendo mal software.
 
 ---
